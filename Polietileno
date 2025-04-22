@@ -1,0 +1,45 @@
+::Área bajo curva esfuerzo-deformación::
+¿Qué representa físicamente el área bajo la curva esfuerzo-deformación \(\sigma-\varepsilon\)?
+{
+=Energía absorbida por unidad de volumen antes de la fractura
+~Trabajo neto necesario para producir una deformación plástica
+~Carga máxima aplicada antes de la fractura
+~Resistencia máxima a la tracción del material
+}
+
+::Fórmula de energía en zona elástica::
+¿Cuál es la apreciación del equipo usado par amedir la elongación en La práctica de Fislab?
+{
+=1mm
+~0.1mm
+~10mm
+~1cm
+}
+
+::Límite proporcional::
+¿Qué ocurre en el límite proporcional del diagrama esfuerzo-deformación?
+{
+=La relación entre esfuerzo y deformación es lineal
+~El material comienza a fluir permanentemente
+~Se produce la fractura del material
+~El material se endurece por deformación
+}
+
+::Zona de cedencia::
+¿Qué característica define la zona de cedencia en el diagrama esfuerzo-deformación?
+{
+=El material se deforma plásticamente con poco o ningún aumento en el esfuerzo
+~El esfuerzo comienza a disminuir aunque la deformación aumenta
+~El esfuerzo y la deformación son proporcionales
+~Se presenta la fractura del material
+}
+
+::Zona de estricción::
+En la zona de estricción del diagrama esfuerzo-deformación:
+{
+=El área de la sección transversal disminuye localmente
+~El material se comporta elásticamente
+~Se alcanza el esfuerzo máximo
+~La relación entre esfuerzo y deformación es lineal
+}
+

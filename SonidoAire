@@ -1,0 +1,47 @@
+// Cuestionario: Modos normales en tubo cerrado y velocidad del sonido
+
+::Pregunta1::
+¿Cuál es la condición para que se formen modos normales en un tubo cerrado por un extremo?
+{
+=Que en el extremo cerrado haya un nodo y en el abierto un vientre.
+~Que ambos extremos sean nodos de presión.
+~Que en ambos extremos haya vientres.
+~Que la frecuencia de la onda sea múltiplo de dos.
+}
+
+::Pregunta2::
+¿Qué tipo de armónicos se permiten en un tubo cerrado por un extremo?
+{
+=Solo los armónicos impares.
+~Todos los armónicos (pares e impares).
+~Solo el modo fundamental.
+~Solo los armónicos pares.
+}
+
+::Pregunta3::
+¿Cuál es la relación entre la longitud del tubo cerrado y la longitud de onda para el modo fundamental?
+{
+=L \= λ / 4
+~L \= λ / 2
+~L \= λ
+~L \= 3λ / 4
+}
+
+::Pregunta4::
+¿Cuál es la velocidad del sonido en el aire a temperatura ambiente (~20 °C)?
+{
+=343 m/s
+~3300 m/s
+~273 m/s
+~120 m/s
+}
+
+::Ejercicio::
+Un tubo cerrado por un extremo resuena con un diapasón de 1024 Hz. Si la velocidad del sonido es 330 m/s, ¿cuál debe ser la longitud mínima del tubo para formar el modo fundamental?
+{
+=0.0805 m
+~0.322 m
+~0.041 m
+~0.165 m
+}
+

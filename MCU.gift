@@ -1,0 +1,50 @@
+// Pregunta 1: Longitud de arco y desplazamiento angular
+::Movimiento circular - Conceptos básicos::
+¿Cuál es la relación correcta entre longitud de arco y desplazamiento angular en un movimiento circular?
+{
+=La longitud de arco está dada por \( s = r \theta \), donde \( s \) es la longitud de arco, \( r \) el radio, y \( \theta \) el desplazamiento angular en radianes.
+~El desplazamiento angular se mide en metros y es equivalente a la longitud de arco.
+~Ambas cantidades se miden en grados y no dependen del radio.
+~La longitud de arco es siempre igual al radio del círculo.
+}
+
+// Pregunta 2: Velocidad y aceleración angular
+::Definiciones angulares::
+¿Cuáles son las definiciones correctas de velocidad y aceleración angular?
+{
+=La velocidad angular es la razón de cambio del desplazamiento angular respecto al tiempo: \( \omega = \frac\{d\theta\}\{dt\} \); la aceleración angular es \( \alpha = \frac\{d\omega\}\{dt\} \).
+~La velocidad angular se mide en metros por segundo y la aceleración angular en metros por segundo cuadrado.
+~Ambas son constantes y no dependen del tiempo.
+~La aceleración angular se obtiene dividiendo el desplazamiento angular entre el tiempo total.
+}
+
+// Pregunta 3: Ecuaciones del movimiento circular uniformemente acelerado
+::Ecuaciones del MCUA::
+¿Cual es la unidad que usara para medir la velocidad angular instantanea instantanea?
+{
+=15°
+~15cm
+~15mm
+~15rad
+}
+
+// Pregunta 4: Velocidad angular instantánea
+::Velocidad angular instantánea::
+¿Qué es la velocidad angular instantánea y cómo puede medirse experimentalmente?
+{
+=Es la velocidad angular en un instante específico de tiempo. Puede medirse usando sensores ópticos, tacómetros digitales o analizando la variación del ángulo con respecto al tiempo usando un sistema de adquisición de datos.
+~Es la aceleración del objeto en línea recta. Se mide con una regla y un cronómetro.
+~Es una constante determinada por la masa del objeto. Se mide en kilogramos.
+~Es la derivada de la aceleración angular respecto al tiempo. Se obtiene de la fuerza centrífuga.
+}
+
+// Pregunta 5: Ejercicio numérico
+::Ejercicio MCUA::
+Un disco parte del reposo y gira con una aceleración angular constante de \( \alpha = 4 \, \text\{rad/s\}^2 \). ¿Cuál es su velocidad angular después de 3 segundos?
+{
+~6 rad/s
+=12 rad/s
+~9 rad/s
+~3 rad/s
+}
+

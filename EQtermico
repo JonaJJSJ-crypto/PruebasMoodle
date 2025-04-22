@@ -1,0 +1,48 @@
+// Cuestionario: Calorimetría y conceptos térmicos
+
+::Pregunta1::
+¿Qué es un sistema aislado?
+{
+=Un sistema que no intercambia masa ni energía con el entorno.
+~Un sistema que solo intercambia calor con su entorno.
+~Un sistema que intercambia energía pero no masa.
+~Un sistema que está en equilibrio térmico con el entorno.
+}
+
+::Pregunta2::
+¿Qué representa el calor específico de una sustancia?
+{
+=La cantidad de calor necesaria para aumentar en 1 °C la temperatura de 1 kg de sustancia.
+~La cantidad total de calor que un cuerpo puede absorber.
+~La temperatura a la que una sustancia cambia de estado.
+~La masa necesaria para alcanzar el equilibrio térmico.
+}
+
+::Pregunta3::
+¿Qué ocurre cuando dos cuerpos alcanzan el equilibrio térmico?
+{
+=Ambos tienen la misma temperatura y no hay intercambio neto de calor.
+~La temperatura de ambos aumenta constantemente.
+~Se genera una reacción exotérmica.
+~Uno de ellos se convierte en sistema abierto.
+}
+
+::Pregunta4::
+¿Cuál de los siguientes materiales no se usa en la práctica de Fislab?
+{
+=Acero
+~Cobre
+~Plomo
+~Bronce
+}
+
+::Ejercicio::
+Un bloque de aluminio de 0.2 kg a 90 °C se coloca en 0.3 kg de agua a 20 °C. Si no hay pérdidas de calor, ¿cuál será la temperatura final?  
+(Datos: calor específico del aluminio: 900 J/kg·°C, del agua: 4186 J/kg·°C)
+{
+=Tf ≈ 34 °C
+~Tf ≈ 60 °C
+~Tf ≈ 50 °C
+~Tf ≈ 80 °C
+}
+

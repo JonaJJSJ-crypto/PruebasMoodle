@@ -1,0 +1,47 @@
+// Cuestionario: Módulo de Young y tubo de Kundt
+
+::Pregunta1::
+¿Qué es el módulo de Young?
+{
+=Una medida de la rigidez de un material, que relaciona el esfuerzo con la deformación.
+~La fuerza necesaria para romper un material.
+~La energía almacenada por unidad de volumen.
+~La masa por unidad de volumen.
+}
+
+::Pregunta2::
+¿Cuál es la fórmula del módulo de Young en términos de velocidad de propagación del sonido en un sólido?
+{
+=Y \= ρ · v²
+~Y \= v / ρ
+~Y \= ρ / v
+~Y \= v² / ρ
+}
+
+::Pregunta3::
+¿Para qué sirve el tubo de Kundt?
+{
+=Para medir la velocidad del sonido en un sólido y determinar el módulo de Young.
+~Para calcular la frecuencia del sonido en el agua.
+~Para analizar ondas electromagnéticas.
+~Para estudiar la polarización de ondas.
+}
+
+::Pregunta4::
+Si se conoce la longitud de onda en el aire dentro de un tubo de Kundt y la velocidad del sonido en el aire, ¿qué se puede calcular primero?
+{
+=La frecuencia de oscilación de la fuente.
+~La densidad del sólido.
+~El volumen del tubo.
+~La masa del gas.
+}
+
+::Ejercicio::
+En un tubo de Kundt, la longitud de onda en el aire es de 0.16 m y la velocidad del sonido en el aire es de 330 m/s. Si la densidad de la varilla es de 8000 kg/m³ y la longitud de onda en el sólido es de 0.8 m, ¿cuál es el módulo de Young del material?
+{
+=Y ≈ 2.18 × 10^10 Pa
+~Y ≈ 3.30 × 10^10 Pa
+~Y ≈ 1.65 × 10^7 Pa
+~Y ≈ 8.00 × 10^4 Pa
+}
+

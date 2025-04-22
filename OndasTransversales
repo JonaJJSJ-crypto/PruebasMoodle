@@ -1,0 +1,47 @@
+// Cuestionario: Velocidad de propagación de ondas
+
+::Pregunta1::
+¿Cuál es la fórmula para la velocidad de una onda en una cuerda tensa?
+{
+=v \= √(T / μ)
+~v \= T · μ
+~v \= T / μ²
+~v \= μ / T
+}
+
+::Pregunta2::
+¿Qué representa la letra T en la fórmula v = √(T / μ)?
+{
+=La tensión de la cuerda en Newtons
+~La temperatura del medio
+~El tiempo de propagación de la onda
+~El período de la onda
+}
+
+::Pregunta3::
+¿Qué representa la letra μ en la fórmula v = √(T / μ)?
+{
+=La densidad lineal de masa de la cuerda (kg/m)
+~La viscosidad del medio
+~La masa total de la cuerda
+~La amplitud de la onda
+}
+
+::Pregunta4::
+¿Cuál es la fórmula general de la velocidad de una onda?
+{
+=v \= f · λ
+~v \= f / λ
+~v \= λ / f
+~v \= f² · λ
+}
+
+::Pregunta5::
+Si aumenta la tensión en una cuerda, ¿qué sucede con la velocidad de la onda?
+{
+=Aumenta
+~Disminuye
+~Permanece igual
+~Se anula
+}
+

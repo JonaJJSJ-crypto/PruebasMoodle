@@ -1,0 +1,47 @@
+// Cuestionario: Dilatación térmica lineal
+
+::Pregunta1::
+¿Qué magnitud física representa la dilatación térmica lineal?
+{
+=El aumento de longitud de un objeto al cambiar su temperatura.
+~La masa que gana un objeto al calentarse.
+~La fuerza que se genera por el cambio de temperatura.
+~La energía total absorbida por el objeto.
+}
+
+::Pregunta2::
+¿Cuál de los siguientes factores influye directamente en la dilatación térmica lineal?
+{
+=Longitud inicial, cambio de temperatura y coeficiente de dilatación.
+~Solamente el tipo de material.
+~La densidad del objeto.
+~La presión atmosférica.
+}
+
+::Pregunta3::
+¿Cuál es la fórmula para calcular la dilatación lineal?
+{
+=ΔL \= α · L₀ · ΔT
+~ΔL \= α + L₀ + ΔT
+~ΔL \= L₀ / (α · ΔT)
+~ΔL \= α / (L₀ · ΔT)
+}
+
+::Pregunta4::
+¿Cuál es el coeficiente de dilatación lineal aproximado del cobre?
+{
+=1.7 × 10⁻⁵ °C⁻¹
+~3.0 × 10⁻⁶ °C⁻¹
+~2.1 × 10⁻⁴ °C⁻¹
+~9.8 × 10⁻³ °C⁻¹
+}
+
+::Ejercicio::
+Una varilla de cobre de 2.0 m de largo se somete a un aumento de temperatura de 80 °C. ¿Cuál es el aumento esperado en su longitud? Usa α = 1.7 × 10⁻⁵ °C⁻¹.
+{
+=2.72 mm
+~0.0272 m
+~1.36 mm
+~0.17 mm
+}
+

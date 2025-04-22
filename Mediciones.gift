@@ -1,0 +1,41 @@
+// Pregunta 1
+¿Cuál es la fórmula del volumen de una esfera en función del radio?
+{
+= \(\frac\{4\}\{3\} \pi r^3\)
+~ \(\pi r^2\)
+~ \(\frac\{1\}\{2\} \pi r^2\)
+~ \(4 \pi r^2)
+}
+
+// Pregunta 2
+2 Dadas las siguientes medidas de radio: 3.2 cm, 3.3 cm, 3.1 cm, 3.4 cm, 3.2 cm. ¿Cuál es el valor promedio?
+{
+=3.24
+~3.20
+~3.30
+~3.22
+}
+
+// Pregunta 3
+3 ¿Cómo se calcula la desviación estándar para un conjunto de medidas?
+{
+=Es la raíz cuadrada del promedio de los cuadrados de las desviaciones respecto a la media.
+~Es la media de los errores absolutos.
+~Es el promedio de las medidas.
+~Es la diferencia entre el mayor y menor valor.
+}
+
+// Pregunta 4
+4 Si se calcula un volumen de 142.7 cm³ y una masa de 140 g, ¿cuál es la densidad experimental?
+{
+=0.981
+~1.02
+~1.12
+~0.88
+}
+
+// Pregunta 5
+5 Verdadero o falso: Un error porcentual del 87.5% indica que la densidad medida es muy cercana a la densidad teórica del material.
+{
+F
+}

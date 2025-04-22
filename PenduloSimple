@@ -1,0 +1,46 @@
+// Cuestionario: Péndulo simple y MAS
+
+::Pregunta1::
+¿Cuál de las siguientes condiciones es necesaria para que el movimiento de un péndulo simple sea un Movimiento Armónico Simple (MAS)?
+{
+~El ángulo de oscilación debe ser mayor de 45°.
+~La masa de la cuerda debe ser significativa.
+~La longitud del hilo debe cambiar durante la oscilación.
+=El ángulo de oscilación debe ser pequeño (aproximadamente menor de 15°).
+}
+
+::Pregunta2::
+¿Cuál es la forma general de la fuerza restauradora en un péndulo simple cuando el ángulo es pequeño?
+{
+~Constante y dirigida hacia abajo.
+~Proporcional al seno del ángulo y dirigida hacia el punto más bajo.
+=Proporcional al desplazamiento angular y dirigida hacia el equilibrio.
+~Nula en todo momento.
+}
+
+::Pregunta3::
+¿Cuál es la expresión del periodo T de un péndulo simple de longitud L, bajo una aceleración gravitacional g?
+{
+~T \= 2π√(g/L)
+~T \= √(L/g)
+=T \= 2π√(L/g)
+~T \= 2L/πg
+}
+
+::Pregunta4::
+¿Qué representa la amplitud en el movimiento de un péndulo simple en el régimen armónico?
+{
+~El número de oscilaciones por segundo.
+~La fuerza máxima aplicada al péndulo.
+=El ángulo máximo que alcanza respecto a la posición de equilibrio.
+~El tiempo que tarda en ir de un extremo al otro.
+}
+
+::Ejercicio::
+Un péndulo simple tiene una longitud de 1.2 m. ¿Cuál es el periodo de oscilación si la aceleración gravitacional es 9.8 m/s²?
+{
+~1.1 s
+=2.2 s
+~0.8 s
+~3.5 s
+}

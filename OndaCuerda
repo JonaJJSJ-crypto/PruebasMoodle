@@ -1,0 +1,46 @@
+// Cuestionario: Velocidad de propagación de ondas
+
+::Pregunta1::
+¿Cuál es la fórmula correcta para la velocidad de una onda en una cuerda estirada?
+{
+=v \= √(T / μ)
+~v \= T / μ
+~v \= μ / T
+~v \= T * μ
+}
+
+::Pregunta2::
+¿Qué representa la variable μ en la fórmula v = sqrt(T / μ)?
+{
+=La densidad lineal de masa de la cuerda (masa por unidad de longitud)
+~La masa total de la cuerda
+~La fuerza neta sobre la cuerda
+~La frecuencia de la onda en la cuerda
+}
+
+::Pregunta3::
+¿Cómo se relacionan la velocidad, frecuencia y longitud de onda de una onda?
+{
+=v \= f * λ
+~f \= v * λ
+~λ \= v / f²
+~v \= f / λ
+}
+
+::Pregunta4::
+Si se incrementa la tensión en una cuerda manteniendo constante su densidad lineal, ¿qué sucede con la velocidad de propagación de la onda?
+{
+=Aumenta
+~Disminuye
+~Se mantiene constante
+~Cambia solo si también cambia la longitud de onda
+}
+
+::Pregunta5::
+Si una onda de 2 Hz de frecuencia tiene una longitud de onda de 3 metros, ¿cuál es su velocidad?
+{
+=6 m/s
+~1.5 m/s
+~0.67 m/s
+~5 m/s
+}

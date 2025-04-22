@@ -1,0 +1,47 @@
+// Cuestionario: Electrización y propiedades de los materiales
+
+::Pregunta1::
+¿Qué ocurre en la electrización por frotamiento?
+{
+=Dos cuerpos se frotan y uno transfiere electrones al otro, quedando ambos con cargas opuestas.
+~Un cuerpo pierde protones por el calor del movimiento.
+~Un cuerpo neutro se conecta a tierra para ganar electrones.
+~Dos cuerpos se repelen debido a la fricción.
+}
+
+::Pregunta2::
+¿Qué sucede durante la electrización por contacto?
+{
+=Un cuerpo cargado transfiere parte de su carga a otro cuerpo neutro, que queda con carga del mismo signo.
+~Los cuerpos adquieren cargas opuestas por contacto.
+~El cuerpo neutro pierde protones por conducción.
+~Las cargas se redistribuyen sin contacto directo.
+}
+
+::Pregunta3::
+¿Cómo funciona la electrización por inducción?
+{
+=Un cuerpo cargado se acerca a uno neutro, provocando una redistribución de cargas sin contacto físico.
+~Dos cuerpos se frotan para intercambiar cargas.
+~Se conectan dos cuerpos para igualar su carga.
+~Un cuerpo se descarga al tocar un conductor.
+}
+
+::Pregunta4::
+¿Qué es el efecto triboeléctrico?
+{
+=La tendencia de ciertos materiales a cargarse al entrar en contacto o frotarse, según una serie específica.
+~La resistencia que oponen algunos materiales a la electricidad.
+~El fenómeno por el cual un cuerpo pierde masa al ser frotado.
+~La acumulación de cargas en los extremos de un conductor.
+}
+
+::Pregunta5::
+¿Cuál es la diferencia principal entre conductores y aislantes?
+{
+=Los conductores permiten el movimiento de cargas eléctricas, mientras que los aislantes lo impiden.
+~Los aislantes generan electricidad y los conductores no.
+~Los conductores se cargan por inducción y los aislantes por contacto.
+~Los aislantes repelen las cargas y los conductores las absorben.
+}
+

@@ -1,0 +1,47 @@
+// Cuestionario: Péndulo de torsión
+
+::Pregunta1::
+¿Qué es un péndulo de torsión?
+{
+=Un sistema que oscila mediante giros alrededor de un eje debido a la torsión de un hilo.
+~Un péndulo que oscila por la acción de la gravedad a lo largo de un arco.
+~Una masa suspendida que cae libremente sin resistencia.
+~Un sistema que solo puede moverse en línea recta.
+}
+
+::Pregunta2::
+¿Cuál es la expresión del torque restaurador en un péndulo de torsión?
+{
+=τ \= -κ θ
+~τ \= m g L
+~τ \= I α
+~τ \= -m g sin(θ)
+}
+
+::Pregunta3::
+¿Cuál es la fórmula del periodo T de un péndulo de torsión?
+{
+=T \= 2π √(I / κ)
+~T \= 2π √(κ / I)
+~T \= √(I / κ)
+~T \= 2π (I / κ)
+}
+
+::Pregunta4::
+¿Cuáles elementos se utilizará para el péndulo de torsión?
+{
+=Disco y Anillo
+~Varilla y Esfera
+~Cubo y Esfera
+~cilindro y Varilla
+}
+
+::Ejercicio::
+Un disco con momento de inercia I = 0.02 kg·m² tiene un periodo de oscilación T = 1.5 s. ¿Cuál es la constante de torsión κ del péndulo?
+{
+=κ ≈ 0.35 N·m/rad
+~κ ≈ 0.15 N·m/rad
+~κ ≈ 1.8 N·m/rad
+~κ ≈ 0.02 N·m/rad
+}
+

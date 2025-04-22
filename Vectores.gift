@@ -1,0 +1,49 @@
+// Pregunta 1: Definición de vector
+::Vector - Definición::
+¿Qué es un vector en el contexto de la física?
+{
+=Una magnitud que posee módulo, dirección y sentido.
+~Una cantidad escalar que solo tiene módulo.
+~Una variable que representa únicamente la posición de un objeto.
+~Un número complejo con parte real y parte imaginaria.
+}
+
+// Pregunta 2: Módulo, dirección y sentido
+::Características del vector::
+¿Cuál de las siguientes opciones describe correctamente los elementos de un vector?
+{
+=El módulo es la longitud del vector; la dirección es la línea sobre la cual actúa; el sentido es hacia dónde apunta en esa línea.
+~El módulo es el ángulo que forma el vector; la dirección es la velocidad; el sentido es su aceleración.
+~El módulo es siempre negativo; la dirección es arbitraria; el sentido no importa.
+~Todos los elementos del vector son independientes entre sí.
+}
+
+// Pregunta 3: Coordenadas cartesianas
+::Sistema cartesiano::
+En un sistema de coordenadas cartesianas en 2D, ¿cómo se representa un vector?
+{
+=Mediante dos componentes: una en el eje X y otra en el eje Y.
+~Mediante su magnitud únicamente.
+~Solo con su dirección angular.
+~Usando coordenadas polares exclusivamente.
+}
+
+// Pregunta 4: Ángulos directores
+::Ángulos directores::
+¿Qué representan los ángulos directores de un vector tridimensional?
+{
+=Los ángulos que forma el vector con cada uno de los ejes coordenados.
+~Los ángulos internos de un triángulo formado por los extremos del vector.
+~Los ángulos de rotación del vector en un plano cartesiano.
+~Los ángulos entre dos vectores unitarios en el espacio.
+}
+
+// Pregunta 5: Ejercicio numérico
+::Ejercicio de módulo y ángulos::
+Un vector en 3D tiene componentes (3, 4, 12). Calcula su módulo.
+{
+~10
+~13
+=13
+~15
+}

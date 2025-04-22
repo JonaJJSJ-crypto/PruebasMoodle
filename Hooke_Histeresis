@@ -1,0 +1,39 @@
+::Ley de Hooke - Constante del resorte::
+Un resorte se estira 5 cm cuando se le cuelga una masa de 200 g.  
+Sabiendo que la aceleración gravitacional es g = 9.8m/s, ¿cuál es la constante elástica k del resorte?
+{
+~25 N/m
+~30 N/m
+~35 N/m
+=39.2 N/m
+~42 N/m
+}
+
+::Ley de Hooke - Elongación con 500 g::
+Si se cuelga una masa de 500 g del mismo resorte, ¿cuánto se estirará?
+{
+=0.125 m
+~0.100 m
+~0.050 m
+~0.250 m
+~0.075 m
+}
+
+::Histéresis Elástica - Energía disipada::
+¿Qué representa el área encerrada en el bucle de una gráfica fuerza vs elongación durante un ciclo de carga y descarga en un resorte?
+{
+~La energía almacenada en forma de energía potencial.
+~La fuerza máxima aplicada durante la deformación.
+=La energía disipada en forma de calor debido a la fricción interna del material.
+~El valor de la constante elástica del resorte.
+~La masa del objeto que estira el resorte.
+}
+
+::Fislab - Instrumentos de medición::
+¿Cuál es la apreciación del instrumento usado para medir la elongación del resorte?
+{
+~1 mm
+=0.5 mm
+~1 cm
+~0.5 cm
+}

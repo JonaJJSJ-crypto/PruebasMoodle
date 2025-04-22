@@ -1,0 +1,51 @@
+// Pregunta 1: Posición, velocidad y aceleración
+::Cinemática - Definiciones básicas::
+¿Cuál es la relación correcta entre posición, velocidad y aceleración en función del tiempo?
+{
+=La velocidad es la derivada de la posición respecto al tiempo y la aceleración es la derivada de la velocidad respecto al tiempo.
+~La posición es constante y no depende del tiempo.
+~La aceleración es la integral de la posición respecto al tiempo.
+~La velocidad es independiente del cambio de posición.
+}
+
+// Pregunta 2: Ecuación de posición
+::Ecuación de posición::
+¿Cuál es la ecuación de la posición para un movimiento rectilíneo uniformemente acelerado (MRUV)?
+{
+= \( x(t) = x_0 + v_0 t + \frac\{1\}\{2\} a t^2 \)
+~ \( x(t) = x_0 + a t^2 \)
+~ \( x(t) = v_0 + a t \)
+~ \( x(t) = \frac\{v^2\}\{2a\} \)
+}
+
+// Pregunta 3: Velocidad instantánea
+::Velocidad instantánea::
+¿Cual es la longitud que usara para medir la velocidad instantanea?
+{
+=10mm
+~10cm
+~10dm
+~10m
+}
+
+// Pregunta 4: Ecuaciones del MRUV
+::Ecuaciones del MRUV::
+¿Cuáles de las siguientes son ecuaciones del Movimiento Rectilíneo Uniformemente Variado (MRUV)?
+{
+= \( v = v_0 + at \)
+= \( x = x_0 + v_0 t + \frac\{1\}\{2\} a t^2 \)
+= \( v^2 = v_0^2 + 2a(x - x_0) \)
+= \( x = x_0 + \frac\{v + v_0\}\{2\} t \)
+~ \( a = \frac\{v\}\{t^2\} \)
+~ \( x = v_0^2 + 2at \)
+}
+
+// Pregunta 5: Ejercicio numérico
+::Ejercicio MRUV::
+Un automóvil parte del reposo y acelera uniformemente a razón de a = 2m/s^2. ¿Qué distancia recorre en 5 segundos?
+{
+~10 m
+=25 m
+~50 m
+~5 m
+}

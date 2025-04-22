@@ -1,0 +1,44 @@
+::Característica de la fuerza en MAS::
+¿Cuál es la principal característica de la fuerza en un Movimiento Armónico Simple?
+{
+=Es proporcional y opuesta al desplazamiento
+~Es constante en magnitud y dirección
+~Depende de la velocidad del objeto
+~Solo actúa en la posición de equilibrio
+}
+
+::Relación entre periodo y frecuencia::
+¿Cuál es la relación correcta entre el periodo (T) y la frecuencia (f)?
+{
+=f = 1 / T
+~f = T^2
+~f = √T
+~f = 2π T
+}
+
+::Amplitud de oscilación::
+¿Qué representa la amplitud en un movimiento armónico simple?
+{
+=El desplazamiento máximo desde la posición de equilibrio
+~El tiempo entre dos oscilaciones completas
+~La velocidad máxima del objeto
+~La constante del resorte
+}
+
+::Ecuación del período en un sistema masa-resorte::
+¿Cuál es la fórmula del período de oscilación de un sistema masa-resorte?
+{
+=T = 2π √(m / k)
+~T = √(k / m)
+~T = k / m
+~T = 2π (m / k)
+}
+
+::Ejercicio de MAS::
+Una masa de 0.5 kg cuelga de un resorte con constante k = 200 N/m. ¿Cuál es el período de oscilación?
+{
+=T ≈ 0.314 s
+~T ≈ 0.5 s
+~T ≈ 0.1 s
+~T ≈ 1.0 s
+}
